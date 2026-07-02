@@ -122,19 +122,22 @@ Spam-Email-Classifier
 
 ## 🏠 Home Page
 
-![Home](images/home.png)
+<img width="1366" height="768" alt="Home" src="https://github.com/user-attachments/assets/165e10d5-6500-45e2-bcd0-a5fe7cce813a" />
+
 
 ---
 
 ## 🚨 Spam Prediction
 
-![Spam](images/spam.png)
+<img width="1366" height="768" alt="Spam" src="https://github.com/user-attachments/assets/4d19a8bd-dd89-4b73-9c99-9aa7b03d252d" />
+
 
 ---
 
 ## ✅ Not Spam Prediction
 
-![Not Spam](images/not_spam.png)
+<img width="1366" height="768" alt="not_Spam" src="https://github.com/user-attachments/assets/3e00266e-c51e-46f4-9b2e-e7830437bb61" />
+
 
 ---
 
